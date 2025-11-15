@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GardenApp.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 184a1efa34cbcd04883c5f3c1e8de5c9, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 0a3dbc294f3601a49aa3845a0dc9f624, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 84c3c26c87f22cb43a0dd647cc6d9d17, type: 2}
+  m_UseUCBPForAssetBundles: 0
